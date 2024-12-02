@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 My name's Damir Nurlygayanov<br>🌱 I’m currently learning the Spring Framework
+🤝 My name's Damir Nurlygayanov<br>🌱 I’m currently learning the Spring Boot, Docker, Kafka<br>
 ![Profile views](https://komarev.com/ghpvc/?username=l-salaga-l&label=Profile%20views&color=0e75b6&style=flat)
 
 
