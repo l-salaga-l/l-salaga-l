@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 My name's Damir Nurlygayanov<br>🌱 I’m currently learning the Spring Boot, Docker, Kafka<br>
+🤝 My name's Damir Nurlygayanov<br>🌱 I’m currently learning the Spring Security, Kubernetes, Kotlin<br>
 
 # 💻 Tech Stack:
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
