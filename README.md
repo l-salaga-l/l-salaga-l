@@ -18,6 +18,4 @@
 </div>
 
 # 📊 GitHub Stats:
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-salaga-l&theme=default&hide_title=false&layout=donut&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=l-salaga-l&theme=city_light&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
